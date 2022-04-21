@@ -12,6 +12,10 @@
 
 ### - HTML;
 
+## Observação:
+
+### A ideia desse pequeno projeto surgiu após assistir ao conteúdo do canal Programação Dinâmica: https://www.youtube.com/watch?v=BDhSrdopl-Q&t=460s.
+
 ## Imagens da Aplicação
 
 ### Passo 1: digitar palavra, frase, link, etc. e pressionar o botão "Gerar QR Code"
