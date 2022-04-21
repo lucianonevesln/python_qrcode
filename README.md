@@ -1,8 +1,8 @@
-# Projeto: Gerar QRCode
+# Projeto: Gerar QR Code
 
 ## Objetivo:
 
-### Criar um front-end que solicita uma(s) palavra(s), link, etc. e que em seguida gera um QRCode.
+### Criar um front-end que solicita uma(s) palavra(s), link, etc. e que em seguida gera um QR Code.
 
 ## Tecnologias:
 
