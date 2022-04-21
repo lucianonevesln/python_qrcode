@@ -9,8 +9,8 @@
 <body>
 
     <form action = "{{ url_for('gera_qrcode') }}" method = "POST">
-        <label for="">Digite uma palavra: </label>
-        <input type="text" name="id_palavra" id="id_palavra"><br><br>
+        <label for="">Digite aqui: </label>
+        <input type="text" placeholder="palavra, frase, link..." name="id_palavra" id="id_palavra"><br><br>
         <input type="submit" name="retorno" value="Gerar QR Code">
     </form><br>
 

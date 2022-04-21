@@ -14,7 +14,7 @@
 
 ## Imagens da Aplicação
 
-### Passo 1: digitar uma(s) palavra(s), link, etc. e pressionar o botão "Gerar QR Code"
+### Passo 1: digitar palavra, frase, link, etc. e pressionar o botão "Gerar QR Code"
 
 ![alt text](https://github.com/lucianonevesln/python_qrcode/blob/main/static/img0.png)
 
@@ -22,6 +22,6 @@
 
 ![alt text](https://github.com/lucianonevesln/python_qrcode/blob/main/static/img1.png)
 
-### Passo 3: aponte a câmera de seu celular para a imagem
+### Passo 3: aponte a câmera de seu celular para a imagem gerada
 
 ![alt text](https://github.com/lucianonevesln/python_qrcode/blob/main/static/img2.png)
